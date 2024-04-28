@@ -280,7 +280,7 @@
 #f-l-f-first {
     height: 350px;
     width: 250px;
-    padding: 10px;
+
     background-color: #191B1C;
 }
 
@@ -289,7 +289,8 @@
     height: 100%;
     background: url("images/569288727bc9b16906a1f66e649f02ee.png");
     background-position: center;
-    background-size: cover;
+    background-size:contain;
+    background-repeat: no-repeat; 
 }
 
 #f-l-f-second {
@@ -304,7 +305,8 @@
     height: 100%;
     background: url("images/7b8c3a3c24316ab5de9ff7a391792a77.png");
     background-position: center;
-    background-size: cover;
+    background-size:contain;
+    background-repeat: no-repeat; 
 }
 
 .f-l-f-image3 {
@@ -312,7 +314,8 @@
     height: 100%;
     background: url("images/ddd5c250443e0eb33d965f663aa13aff.png");
     background-position: center;
-    background-size: cover;
+    background-size:contain;
+    background-repeat: no-repeat; 
 }
 
 #f-l-f-third {
