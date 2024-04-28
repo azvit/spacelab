@@ -206,13 +206,19 @@
 .square-header {
     text-align: center;
     margin: auto;
-    margin-top: 40%;
+    margin-top: 35%;
     display: flex;
+    font-family: Post No Bills Jaffna;
+font-size: 64px;
+font-weight: 700;
+
+text-align: center;
+
 }
 
 .solid50 {
     border-top: 3px solid #bbb;
-    max-width: 50%;
+    max-width: 58%;
     max-height: 3px;
     margin: auto;
   }
@@ -228,10 +234,25 @@
     margin-top: 30px;
   }
 
+.logo2 {
+    font-family: Post No Bills Jaffna;
+   margin: auto;
+   max-height: 80px;
+font-size: 64px;
+font-weight: 700;
 
+text-align: center;
+}
 .square-text {
-    text-align: center;
+    
     margin: auto;
+    margin-top: 5px;
+    font-family: PT Sans;
+font-size: 22px;
+font-weight: 400;
+line-height: 28.47px;
+text-align: center;
+
     
 }
 
